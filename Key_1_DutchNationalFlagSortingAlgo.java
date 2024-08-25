@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class DutchNationalFlagSortingAlgo {
+public class Key_1_DutchNationalFlagSortingAlgo {
 
     public static void main(String[] args) {
         System.out.println("Dutch National Flag Sorting Algorithm");

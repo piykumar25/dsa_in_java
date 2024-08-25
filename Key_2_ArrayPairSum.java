@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class ArrayPairSum {
+public class Key_2_ArrayPairSum {
 
     public static void main(String[] args) {
         System.out.println("Array Pair Sum::");
