@@ -1,0 +1,10 @@
+# Ignore all files in the .idea folder
+.idea/
+
+# Ignore workspace.xml, which stores project-specific settings
+workspace.xml
+
+# Ignore any IDE-specific files like vcs.xml, dictionaries, and encodings
+*.iml
+modules.xml
+.vscode/
